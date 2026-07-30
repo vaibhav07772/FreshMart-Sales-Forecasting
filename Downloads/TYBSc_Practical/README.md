@@ -50,6 +50,7 @@ This project is a **complete time series analysis and sales forecasting assignme
 ---
 
 ## 📁 Project Structure
+
 FreshMart_Forecast/
 ├── FreshMart_Forecast.R # Complete R script with all tasks
 ├── README.md # Project documentation (this file)
