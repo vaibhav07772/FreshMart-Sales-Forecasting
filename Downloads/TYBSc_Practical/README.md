@@ -51,21 +51,17 @@ This project is a **complete time series analysis and sales forecasting assignme
 
 ## 📁 Project Structure
 
-FreshMart_Forecast/
-├── FreshMart_Forecast.R # Complete R script with all tasks
-├── README.md # Project documentation (this file)
-├── plots/
-│ ├── bar_chart.png
-│ ├── line_chart.png
-│ ├── pie_chart.png
-│ ├── histogram.png
-│ ├── boxplot.png
-│ ├── time_series.png
-│ ├── moving_average.png
-│ ├── trend_analysis.png
-│ └── seasonal_index.png
-└── output/
-└── console_output.txt # Full console output for reference
+```plaintext
+FreshMart-Sales-Forecasting/
+├── FreshMart_Forecasting.R    # Complete R script with all tasks (Task 1-8)
+├── forecast.R                  # Alternative/extra R script
+├── sales_data.csv              # Raw dataset (24 months sales data)
+├── ARIMA_Forecast.png          # ARIMA forecast plot (Task 5/6 visual)
+├── final_plot.png              # Time series + Moving Average + Trend plot
+└── README.md                   # Project documentation (this file)
+```
+
+> **Note:** `plots/` folder and `output/console_output.txt` are not included in this repository. All visualizations are embedded as PNG files directly in the root directory for easy access during presentation.e
 
 
 
